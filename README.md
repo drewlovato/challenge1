@@ -14,7 +14,8 @@ DU Bootcamp - Challenge 1
   * relink hero image
   * relink all supporting images
 
-  !<>
+ Website Screen Shot:
+![challenge1-screenshot](https://user-images.githubusercontent.com/59673032/175126002-38156e0f-ea6c-4385-b7d7-ed49c97cc5d3.png)
 
 
 
