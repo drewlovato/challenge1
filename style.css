@@ -11,7 +11,7 @@ body {
 }
 
 /* Entire header */
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ body {
 }
 
 /* Specific to links in header (div, ul, li, & a)*/
-.header div ul {
+.header section ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
